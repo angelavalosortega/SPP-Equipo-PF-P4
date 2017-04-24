@@ -48,6 +48,7 @@ public class SPPEquipoPFP4 {
                 break;
             case 2:
                 sumaTotal(inventario,ventas);
+                System.exit(0);
                 break;
         } 
         }
